@@ -15,7 +15,7 @@ import java.util.List;
  * @Date 2019/9/3
  */
 @DyRestController
-@DyRequestMapping("/v1/student")
+    @DyRequestMapping("/v1/student")
 public class WebController {
 
     @DyAutowired

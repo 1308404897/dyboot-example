@@ -12,6 +12,7 @@
         <module>nacos-config-example</module>
         <module>web01-example</module>
         <module>web02-example</module>
+        <module>web3-example</module>
     </modules>
 
 

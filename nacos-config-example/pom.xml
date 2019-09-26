@@ -30,6 +30,26 @@
             <artifactId>dyboot-starter-nacos-config</artifactId>
             <version>1.0.1-SNAPSHOT</version>
         </dependency>
+        <dependency>
+            <groupId>com.duanya</groupId>
+            <artifactId>dyboot-starter-nacos-cp</artifactId>
+            <version>1.0.1-SNAPSHOT</version>
+        </dependency>
+        <dependency>
+            <groupId>com.duanya</groupId>
+            <artifactId>dyboot-starter-nacos-proxy-client</artifactId>
+            <version>1.0.1-SNAPSHOT</version>
+        </dependency><dependency>
+        <groupId>com.duanya</groupId>
+        <artifactId>dyboot-starter-nacos-cp</artifactId>
+        <version>1.0.1-SNAPSHOT</version>
+    </dependency>
+        <dependency>
+            <groupId>com.duanya</groupId>
+            <artifactId>common</artifactId>
+            <version>1.0.1-SNAPSHOT</version>
+        </dependency>
+
     </dependencies>
     <build>
         <plugins>

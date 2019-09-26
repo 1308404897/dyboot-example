@@ -1,7 +1,10 @@
 package com.duanya.example.nacos;
 
+import com.duanya.example.nacos.service.TestClinetService;
 import com.duanya.spring.framework.annotation.DyBootApplication;
+import com.duanya.spring.framework.annotation.DyNacosServiceClient;
 import com.duanya.spring.framework.starter.run.DyBootApplicationRun;
+
 
 /**
  * @Desc NacosApplication
@@ -11,7 +14,8 @@ import com.duanya.spring.framework.starter.run.DyBootApplicationRun;
 @DyBootApplication
 public class NacosApplication {
 
-    public static  void  main(String[] args ){
+    public static  void  main(String[] args ) {
         DyBootApplicationRun.run(NacosApplication.class);
+
     }
 }

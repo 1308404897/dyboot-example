@@ -9,6 +9,8 @@
         <module name="nacos-config-example" />
         <module name="web01-example" />
         <module name="web02-example" />
+        <module name="web03-example" />
+        <module name="web3-example" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
