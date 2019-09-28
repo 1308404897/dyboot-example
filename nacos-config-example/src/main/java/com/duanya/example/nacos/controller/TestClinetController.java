@@ -16,7 +16,7 @@ import com.duanya.spring.framework.annotation.DyRestController;
 public class TestClinetController {
 
 
-    @DyAutowired
+    //@DyAutowired
     private TestClinetService nacosService2;
 
     @DyGet
